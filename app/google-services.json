@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "10907983732",
+    "project_id": "local-storage-y-archivos",
+    "storage_bucket": "local-storage-y-archivos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10907983732:android:9af38d9896d6fafbd6d621",
+        "android_client_info": {
+          "package_name": "com.example.blogpersonalab11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaK3I2b4_WgSDSie3asBILoS8ImR-HRfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
